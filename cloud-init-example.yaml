@@ -1,0 +1,11 @@
+ssh_authorized_keys:
+  - <insert your public ssh key here>
+packages:
+ - docker.io
+groups:
+  - docker
+users:
+  - default
+  - name: ubuntu
+    groups: docker
+
