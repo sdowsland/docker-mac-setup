@@ -7,7 +7,7 @@
 - Some knowledge of command line, SSH, and Docker.
 - Have `brew` installed
 
-## Unintall Docker Desktop
+## Uninstall Docker Desktop
 
 We need to remove all of the current desktop setup. 
 
