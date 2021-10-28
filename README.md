@@ -1,4 +1,4 @@
-# docker-mac-setup
+# docker-desktop-alt-setup
 
 > WARNING: This guide is work in progress!! Please read carefully and trust nothing/no-one! :D
 
